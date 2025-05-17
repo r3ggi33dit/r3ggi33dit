@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Courage (Reggie)]</h1>
+<h1 align="center">Hi 👋, I'm Courage (Reggie)</h1>
 <h3 align="center">Aspiring Full Stack Developer & Cloud Architect | ALX Back End Learner</h3>
 
 <p align="center">
