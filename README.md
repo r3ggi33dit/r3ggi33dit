@@ -37,13 +37,14 @@
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=r3ggi33dit&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=r3ggi33dit&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=r3ggi33dit&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=r3ggi33dit&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
@@ -63,11 +64,8 @@
 
 ---
 
-### 📌 Highlight Projects
-
-- 🔧 [Project 1 Name](https://github.com/yourusername/project1) — brief description of what it does
-- 🌐 [Project 2 Name](https://github.com/yourusername/project2) — short one-liner
-- 🧠 [Project 3 Name](https://github.com/yourusername/project3) — highlight a project you’re proud of
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=r3ggi33dit&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
@@ -81,4 +79,5 @@
 
 ---
 
-<h3 align="center">💡 “Code is not just written, it's crafted.”</h3>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
