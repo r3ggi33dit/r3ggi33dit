@@ -69,7 +69,7 @@
 
 ---
 
-### 🎯 My Goals
+### 🎯 My Goals:
 
 - [x] Master back-end development with Python & C  
 - [x] Get hands-on with DevOps tools and CI/CD pipelines  
